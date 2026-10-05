@@ -1,0 +1,5 @@
+:HL["/juhsy-world/_next/static/media/22a5144ee8d83bca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/juhsy-world/_next/static/media/7d4881bb7e1bf84d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/juhsy-world/_next/static/css/aee3401874703be0.css","style"]
+:HL["/juhsy-world/_next/static/css/9f054087ee54c425.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"ko","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"iiSdgqtJTA1vdqFPJnMmr"}
