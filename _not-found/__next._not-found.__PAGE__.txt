@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:"static/chunks/1030-75d82cff3e8698a0.js"
+3:"static/chunks/app/_not-found/page-31136364c43c89d8.js"
+4:I[1030,["1030","$2","9492","$3"],""]
+8:I[927,[],""]
+9:I[4032,[],""]
+d:I[7558,[],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[7558,[],"$11"]
+13:"MetadataBoundary"
+14:I[7558,[],"$13"]
+15:I[8403,[],"IconMark"]
+:HL["/juhsy-world/_next/static/css/e8cb2f190dc5f549.css","style"]
+6:X
+b:X
+b:C
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","html",null,{"lang":"en","className":"__variable_77d7f3 __variable_f3bd1e","children":["$","body",null,{"children":["$","main",null,{"style":{"padding":"4rem 1.5rem","textAlign":"center"},"children":[["$","h1",null,{"children":"404"}],["$","p",null,{"children":"This page could not be found."}],["$","p",null,{"lang":"ko","children":"페이지를 찾을 수 없습니다."}],["$","p",null,{"children":[["$","$L4",null,{"href":"/","children":"Home"}]," ·"," ",["$","$L4",null,{"href":"/ko/","lang":"ko","children":"홈"}]]}]]}]}]}],null,["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$6"}}]]
+7:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@a","v":"$b","s":"$6"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/juhsy-world/_next/static/css/e8cb2f190dc5f549.css","precedence":"next"}]],["$","html",null,{"lang":"en","className":"__variable_77d7f3 __variable_f3bd1e","children":["$","body",null,{"children":["$","main",null,{"style":{"padding":"4rem 1.5rem","textAlign":"center"},"children":[["$","h1",null,{"children":"404"}],["$","p",null,{"children":"This page could not be found."}],["$","p",null,{"lang":"ko","children":"페이지를 찾을 수 없습니다."}],["$","p",null,{"children":[["$","$L4",null,{"href":"/","children":"Home"}]," ·"," ",["$","$L4",null,{"href":"/ko/","lang":"ko","children":"홈"}]]}]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"404: Page not found | juhsy-world"}],["$","link","1",{"rel":"icon","href":"/juhsy-world/icon.svg?ee4630feafe0e795","type":"image/svg+xml","sizes":"any"}],["$","$L15","2",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@16","v":null,"s":"$6"}},"a":"$@17","u":"$@18","b":"8Urm2jTbWDekZ79MJf-vT"}
+f:null
+6:300
+18:true
+6:C
+17:0
+a:"$undefined"
+5:"$undefined"
+16:"$undefined"
+10:"$undefined"
